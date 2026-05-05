@@ -1,0 +1,7 @@
+{
+    "name": "mypdfs",
+    "description": "List .pdf files of the current dir and open them with your prefered pdf viewer.",
+    "author": "Julian Vitman",
+    "version": "1.0.0",
+    "pckg-mkr-version": "1.0.0"
+}

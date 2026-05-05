@@ -1,0 +1,23 @@
+{
+    "syntax": [
+        ["-r", "<from>", "<to>"],
+        ["-r", "<id>"],
+        ["<id>"],
+        []
+    ],
+    "desciption": [
+        "remove a range of .pdf files, use the indices of the files after listing",
+        "remove one .pdf files, use the index of the file after listing",
+        "open the .pdf at given index",
+        "list all .pdf files of the current directory"
+    ],
+    "method": [
+        "rm",
+        "rm",
+        "open",
+        "list"
+    ],
+    "dependencies": [
+        "methods"
+    ]
+}
